@@ -2,11 +2,11 @@
 layout: default
 img: ipad.png
 category: Services
-title: Project 1<br>Special Thanks
+title: Death to the Stock Photo:<br>Special Thanks
 description: |
-  <p class="lead">The Cookbook<a target="_blank"
-  href="http://join.deathtothestockphoto.com/">
-  The objective of this site was to allow users to collect their favourite recipes with ingrediets and share them with other users
-</p>
+  <p class="lead">A special thanks to <a target="_blank"
+  href="http://join.deathtothestockphoto.com/">Death to the Stock
+  Photo</a> for providing the photographs that you see in this template.
+  Visit their website to become a member!</p>
 
 ---
