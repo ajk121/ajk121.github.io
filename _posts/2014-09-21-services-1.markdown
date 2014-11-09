@@ -4,9 +4,12 @@ img: ipad.png
 category: Services
 title: Project 1<br>The Cookbook
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
-  href="http://join.deathtothestockphoto.com/">Death to the Stock
-  Photo</a> for providing the photographs that you see in this template.
-  Visit their website to become a member!</p>
+  <p class="lead">
+    The aim of this application was to allow users to add and share their prefered reciepes. 
+    <br>However within this users required a to register in order to contribute. Non registered users were simply able to browse. 
+    <br>
+    Features -
+    <br> Ruby on rails | Cancan | Devise | Carrierwave | acts_as_commentable
+  </p>
 
 ---

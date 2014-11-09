@@ -2,12 +2,15 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Project 2 (Group)<br>HeartBIT
 description: |
-  <p class="lead">Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by <a
-  target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit
-  their website to download some of their awesome, free photoshop
-  actions!</p>
+  <p class="lead">A dating app which focused on connect those in the tech industry.
+  <br>
+  My role was to create a message system within the application from scratch. 
+  <br>
+  Features Worked on :
+  <br>
+  Inbox | Sent Mail | New Message | Restricted Replying | Restricted New Messaging"
+  </p>
 
 ---

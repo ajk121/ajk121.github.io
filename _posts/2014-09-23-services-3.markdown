@@ -2,11 +2,14 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Project 3 <br>Care Connect
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">
+  Care Connect is an web application designed to allow users to create and attend events/meet ups 
+  <br>
+  Features
+  <br>
+
+  </p>
 
 ---
