@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://ajk121.github.io/
-title: AK
+title: ABDUL KHAN | WEB DEVELOPER
 email: contact@abdul-khan.com
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
@@ -25,6 +25,6 @@ permalink: pretty
 social:
  
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/ajk121
   - title: linkedin
     url: uk.linkedin.com/in/abduljalilkhan/
