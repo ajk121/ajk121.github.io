@@ -1,12 +1,15 @@
 ---
 layout: default
-img: phones.png
+img: project1.png
 category: Services
-title: Project 3 <br>Care Connect
+title: August 2014<br>The Cookbook
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">
+    The aim of this application was to allow users to add and share their prefered recipes. 
+    <br>User's were also required to register in order to contribute. Non registered users were simply able to browse. 
+    <br>
+    Features -
+    <br> Ruby on rails | Cancan | Devise | Carrierwave | acts_as_commentable
+  </p>
 
 ---

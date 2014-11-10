@@ -1,15 +1,21 @@
 ---
 layout: default
-img: project1.png
+img: arrow.png
 category: Services
-title: Project 1<br>The Cookbook
+title: About Me <br> 
 description: |
   <p class="lead">
-    The aim of this application was to allow users to add and share their prefered reciepes. 
-    <br>However within this users required a to register in order to contribute. Non registered users were simply able to browse. 
+    Thanks for visitng my page. I'm a web developer always on the look out for new challenges. 
+  <p class="lead">My passion is bringing ideas to life which aid and help make the world a better place through technology</p>
+  <p class="lead">Languages
+    Ruby | Javascript
+    <br> 
+    Frameworks 
+    Rails 
     <br>
-    Features -
-    <br> Ruby on rails | Cancan | Devise | Carrierwave | acts_as_commentable
+    My Tools 
+    Trello | Balsamiq | Sublime 
+    Please do take a look at my projects below 
   </p>
 
 ---

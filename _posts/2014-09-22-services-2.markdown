@@ -1,16 +1,17 @@
 ---
 layout: default
-img: project2.png
+img: project3.png
 category: Services
-title: Project 2 (Group)<br>HeartBIT
+title: October 2014 <br>Care Connect
 description: |
-  <p class="lead">A dating app which focused on connect those in the tech industry.
+  <p class="lead">
+  Care Connect is an web application designed to allow users to create and attend events/meet ups. 
   <br>
-  My role was to create a message system within the application from scratch. 
+  Features
+  Approval based registration 
+  User
   <br>
-  Features Worked on :
-  <br>
-  Inbox | Sent Mail | New Message | Restricted Replying | Restricted New Messaging"
+
   </p>
 
 ---
