@@ -1,12 +1,12 @@
 ---
 layout: default
-img: arrow.png
+img: codescreen.png
 category: Services
 title: About Me <br> 
 description: |
   <p class="lead">
     Thanks for visitng my page. I'm a web developer always on the look out for new challenges. 
-  <p class="lead">My passion is bringing ideas to life which aid and help make the world a better place through technology</p>
+  <p class="lead">My passion is bringing ideas to life which aid and help make the world a better place through technology.</p>
   <p class="lead">Languages
     Ruby | Javascript
     <br> 

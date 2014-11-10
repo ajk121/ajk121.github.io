@@ -6,12 +6,13 @@ title: October 2014 <br>Care Connect
 description: |
   <p class="lead">
   Care Connect is an web application designed to allow users to create and attend events/meet ups. 
-  <br>
+  <p class="lead">
   Features
-  Approval based registration 
-  User
-  <br>
-
+  <li>Approval based registration</li> 
+  <Multi-level users </li>
+  </p>
+  <p class="lead">
+  Technology : Ruby On Rails | Javascript | Google API | Acts As Commentable | Carrierwave | 
   </p>
 
 ---
