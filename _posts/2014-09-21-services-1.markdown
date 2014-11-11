@@ -17,9 +17,9 @@ description: |
   <p class="lead">
   Other Skills & Tools 
   <br>
-  Github | Trello | Balsamiq | Sublime | Ajax | APIs
-  Please do take a look at my projects below 
+  Git | Trello | Balsamiq | Sublime | Ajax | APIs
   </p>
+  <p class="lead">Please do take a look at my projects below</p>
   
   
 
