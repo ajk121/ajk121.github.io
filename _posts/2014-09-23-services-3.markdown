@@ -2,15 +2,24 @@
 layout: default
 img: project2.png
 category: Services
-title: September 2014 (Group)<br>HeartBIT
+title: HeartBIT - September 2014
 description: |
-  <p class="lead">A dating app which focused on connecting those in the tech industry.
-  <br>
+  <p class="lead">A dating app which focused on connecting those in the tech industry.</p>
+  <p class="lead">
   My role was to create a messaging system for the application. 
+  </p>
+  <p class="lead">
+  Features worked on :
   <br>
-  Features Worked on :
-  <br>
-  Inbox | Sent Mail | New Messages | Restricted Replying | Restricted New Messaging 
+  Inbox <br>
+  Sent Box <br>
+  New Messages <br>
+  Restricted Replying <br>
+  Restricted New Messaging 
+  </p>
+  <p class="lead">
+  Technology<br>
+  Ruby On Rails 
   </p>
 
 ---

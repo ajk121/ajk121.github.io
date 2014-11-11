@@ -2,13 +2,25 @@
 layout: default
 img: project1.png
 category: Services
-title: August 2014<br>The Cookbook
+title: The Cookbook - August 2014
 description: |
   <p class="lead">
     The aim of this application was to allow users to add and share their prefered recipes. 
-    <br>User's were also required to register in order to contribute. Non registered users were simply able to browse. 
-    <br>
-    Features -
+    </p>
+  <p class="lead">  
+    User's were also required to register in order to contribute. Non registered users were simply able to browse. 
+  </p>
+  <p class="lead">
+    Features 
+    <br> 
+    Authentication<br>
+    Abilities<br>
+    Adding of new recipes & ingredients<br>
+    Comments
+
+  </p>
+  <p class="lead">
+    Technology 
     <br> Ruby on rails | Cancan | Devise | Carrierwave | acts_as_commentable
   </p>
 

@@ -2,18 +2,22 @@
 layout: default
 img: project3.png
 category: Services
-title: October 2014 <br>Care Connect
+title: Care Connect - October 2014
 description: |
   <p class="lead">
-  Care Connect is an web application designed to allow users to create and attend events/meet ups. 
+  Care Connect is an web application designed to allow users to create and attend events/meet ups. The site's functionality is only accessible to "Approved" users.
+  </p> 
   <p class="lead">
   Features<br>
-  Approval based registration |
-  Multi-level users | Authentication | Event Creation | Recorded Attendees | Status Page
+  Approval based registration | Multi-level users<br>
+  Authentication | Event status page <br>
+  Event creation | Recorded attendees <br>
+  Event map display | Comments
   </p>
   <p class="lead">
   Technology<br>
-  Ruby On Rails | Javascript | Google API | Acts As Commentable | Carrierwave | Public Activity
+  Ruby On Rails | Javascript | Google API <br>
+  Acts As Commentable | Carrierwave | Public Activity
   </p>
 
 ---
