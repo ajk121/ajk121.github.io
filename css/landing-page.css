@@ -21,9 +21,13 @@ h6 {
     font-weight: 300;
 }
 
+.top-space {
+    padding-top: 15%;
+}
+
 .lead {
     font-size: 18px;
-    font-weight: 50;
+    font-weight: 50px;
 }
 
 .intro-header {
