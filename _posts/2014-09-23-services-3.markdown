@@ -9,7 +9,7 @@ description: |
   My role was to create a messaging system for the application. 
   </p>
   <p class="lead">
-  Features worked on :
+  Features Delivered :
   <br>
   Inbox <br>
   Sent Box <br>
