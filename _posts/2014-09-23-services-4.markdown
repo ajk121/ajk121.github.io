@@ -5,10 +5,10 @@ category: Services
 title: The Cookbook - August 2014
 description: |
   <p class="lead">
-    The aim of this application was to allow users to add and share their prefered recipes. 
+    The aim of this application was to allow users to add and share their preferred recipes.
     </p>
   <p class="lead">  
-    User's were also required to register in order to contribute. Non registered users were simply able to browse. 
+    User's were also required to register in order to contribute. Non registered users were simply able to browse.
   </p>
   <p class="lead">
     Features 

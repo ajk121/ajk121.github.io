@@ -5,7 +5,7 @@ category: Services
 title: Care Connect - October 2014
 description: |
   <p class="lead">
-  Care Connect is an web application designed to allow users to create and attend events/meet ups. The site's functionality is only accessible to "Approved" users.
+  Care Connect is a web application designed to allow users to create and attend events. The site functionality is only accessible to "Approved" users.
   </p> 
   <p class="lead">
   Features<br>
